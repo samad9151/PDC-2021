@@ -14,6 +14,9 @@ Sec A First Group will submit with the file name ***A-1-HPCC.md***, Second Group
 
 - __Now create a pull request from your repo to this base repo.__
 
+- __After creating the pull request wait for it to get merged in the base repo.__
+
+
 
 
 
